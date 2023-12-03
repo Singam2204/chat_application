@@ -1,0 +1,24 @@
+#container{
+    height:400px;
+    width:600px;
+    margin:auto;
+    border:3px solid black;
+    background-color: rgb(236, 213, 171);
+    overflow: scroll;
+    font-size: 20px;
+    padding-left:10px;
+    margin-top:20px;
+    line-height:50px;
+}
+.btn{
+    background-color: rgb(7, 91, 7);
+    padding:10px;
+    color:white;
+}
+.text{
+    padding:10px;
+    margin-left:5px;
+}
+.footer{
+    background-color: rgb(156, 156, 156);
+}
